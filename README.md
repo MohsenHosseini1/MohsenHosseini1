@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **caffee shop Site**
 
-- 🌱 I’m currently learning **css html**
+- 🌱 I’m currently learning **Web development**
 
 - 📫 How to reach me **mohsenhossini869@gmail.com**
 
